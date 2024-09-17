@@ -1,5 +1,11 @@
 #Creacion de una Calculadora usando Python.
 
+'''
+Programa que representa una Calculadora Básica creada con lenguaje de programacion Python.
+
+Posee las operaciones mas básicas para realizar.
+'''
+
 class Calculador:
     def __init__(self):
         self.num1 = 0
